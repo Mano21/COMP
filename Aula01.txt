@@ -1,0 +1,31 @@
+COMP - Compiladores
+
+Objetivo: Projeto e implementação de linguagem de programação
+
+Programa:
+
+Introdução:
+  Estrutura dos compialdores
+  Tradução dirigida pela sintaxe
+  
+Teoria das Linguagens:
+  Definição de grámaticas.
+  Gramáticas regulares.
+  Grámaticas livres de contexto.
+  Backus-Naur Form.
+
+Análise Léxica:
+  Especificação de tokens,utilização e grámaticas regulares.
+  Autômatos finitos deterministas.
+  Autômatos finitos não-deterministas.
+  Projeto de um analisador léxico(scanner)
+  
+  
+Análise síntatica:
+  Análise sintática top-down
+  Método de descendênte recursivo
+  Eliminação de recursividade á esquerda.
+  Análise sintática LL(1).
+  Análise sintática bottom-up
+  Métodos: SLR(1),LR(1) e LALR(1)
+  Implementação de um analisador sintático(parser).
