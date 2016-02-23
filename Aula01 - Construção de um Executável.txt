@@ -1,0 +1,22 @@
+pré-processador = tradutor, recebendo um arquivo em C, da a saída um arquivo em C, mas no caminho ele elimina ou trata algumas
+partes no caminho, todas as diretivas de processamento são eliminadas neste trecho(tudo que tem sustenido)...Conjuntos de números(linguagem de máquina ou de baixo níve...assembly),
+uma das partes que ira construir um executavel
+
+
+Compilador,montador,editor de ligação = Conjuntos de números(linguagem de máquina ou de baixo níve...assembly),
+uma das partes que ira construir um executavel
+
+
+execução para salvar todos os caminhos intermediarios presente na geração do executavel
+gcc -save.tumps prog.c
+
+Finalidade de linguagem C = projetada para desenvolver/escrever um SO, pois ela da mais acesso a todo o sistema.
+
+Ex: o proprio linux é escrito em C
+
+
+arquivo.lib =  é uma coleção de arquivos .o => finalidade é agrupar todos os arquivos .o num .lib
+
+
+
+
